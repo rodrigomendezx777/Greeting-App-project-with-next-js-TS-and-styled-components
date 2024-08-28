@@ -45,11 +45,3 @@ Aqui está uma sugestão de descrição para o seu projeto "Saudacao App":
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias ou abrir issues para relatar problemas.
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
----
-
-Essa descrição fornece uma visão geral clara do projeto, suas funcionalidades e como executá-lo localmente. Se precisar de mais ajustes ou quiser incluir outras informações, sinta-se à vontade para pedir!
