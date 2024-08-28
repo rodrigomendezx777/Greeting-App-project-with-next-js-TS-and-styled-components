@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Aqui está uma sugestão de descrição para o seu projeto "Saudacao App":
 
-## Getting Started
+---
 
-First, run the development server:
+# Saudacao App
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Saudacao App** é uma aplicação de exemplo desenvolvida com Next.js e React que demonstra o uso de componentes personalizados e estilização moderna para criar uma experiência de usuário agradável. Este projeto inclui um componente de saudação que permite ao usuário digitar seu nome e receber uma mensagem de boas-vindas personalizada.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Funcionalidades
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Componentes Personalizados:** Utilização de componentes reutilizáveis para estrutura e funcionalidade.
+- **Estilização Moderna:** Design responsivo e moderno utilizando `styled-components`.
+- **Header e Footer:** Inclusão de um cabeçalho e rodapé personalizados para melhorar a navegação e a estética.
+- **Configuração Global de CSS:** Implementação de estilos globais para redefinir margens e preenchimentos, assegurando uma consistência visual em toda a aplicação.
+- **Foco em Experiência do Usuário:** Layout simples e intuitivo para facilitar a interação do usuário.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologias Utilizadas
 
-## Learn More
+- **Next.js 14:** Framework React para desenvolvimento de aplicações web com renderização no lado do servidor e otimização automática.
+- **React:** Biblioteca JavaScript para construção de interfaces de usuário.
+- **TypeScript:** Superset do JavaScript que adiciona tipagem estática ao código, melhorando a segurança e a manutenção.
+- **Styled-components:** Biblioteca para estilização de componentes React usando CSS-in-JS.
+- **Node.js:** Ambiente de execução para JavaScript no lado do servidor.
 
-To learn more about Next.js, take a look at the following resources:
+## Como Executar o Projeto
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/rodrigomendezx777/saudacao-app.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd saudacao-app
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+4. Execute o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
+5. Abra seu navegador e acesse `http://localhost:3000`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contribuição
 
-## Deploy on Vercel
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias ou abrir issues para relatar problemas.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Licença
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Este projeto é licenciado sob a [MIT License](LICENSE).
+
+---
+
+Essa descrição fornece uma visão geral clara do projeto, suas funcionalidades e como executá-lo localmente. Se precisar de mais ajustes ou quiser incluir outras informações, sinta-se à vontade para pedir!
